@@ -16,6 +16,6 @@ I'm a CS sophomore and a passionate GNU/Linux user (i use arch btw). I make poor
 
 I also know how to exit vim.
 
-[![Sai Nivas Mangu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sainivasmangu&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Sai Nivas Mangu's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuxdotexe&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 PS: I usually don't like emojis but this looked too bland without them ;)
