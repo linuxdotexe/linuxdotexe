@@ -14,5 +14,6 @@ I'm a CS junior and a passionate GNU/Linux user. I make poor attemps at shell sc
 I also know how to exit vim.
 
 [![Sai Nivas Mangu's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuxdotexe&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sai Nivas Mangu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=linuxdotexe&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 PS: I usually don't like emojis but this looked too bland without them ;)
