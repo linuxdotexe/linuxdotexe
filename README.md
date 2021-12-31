@@ -1,19 +1,19 @@
-### 👋 Hey there! I am Sai Nivas Mangu
+# 👋 Hey there! I am Sai Nivas
 
-I'm a CS junior and a passionate GNU/Linux user. I make poor attemps at shell scripting. I am a minimalist and I don't like bloat (but stats are cool). I want to support and contribute to open-source projects and I am trying to gain enough knowledge to do so.
+I'm a CS junior and a passionate GNU/Linux user. I am trying to make websites that are fast and aesthetically pleasing. I am a minimalist and I don't like bloat (it's not bloat if it looks cool). I want to support and contribute to open-source projects and I am trying to gain enough knowledge to do so.
 
-### Currently I am
+## Currently I am
 - 🌐 trying my hand at webdev (me likey JAMStack)
-- 🌐 developing small front-end projects with gatsby
-- 📖 reading The Linux Bible
+- 🌐 developing small projects with Gatsby
+- 📖 reading The Linux Bible, Modern Web Development on JAMstack
 
-### I want to
+## I want to
 - 💡 contribute to open-source projects
 - 📜 learn DSA
+- 🌹 stop making self depricating jokes on my resume
 
 I also know how to exit vim.
 
-[![Sai Nivas Mangu's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuxdotexe&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Sai Nivas Mangu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=linuxdotexe&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-PS: I usually don't like emojis but this looked too bland without them ;)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=linuxdotexe&theme=gotham" alt="Sai Nivas Mangu's GitHub stats"></a> </tr>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=linuxdotexe&theme=gotham&layout=compact" alt="Sai Nivas Mangu's Wakatime stats"></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=linuxdotexe&theme=gotham" alt="Sai Nivas Mangu's Streak"/></a>
