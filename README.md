@@ -9,7 +9,6 @@ I'm a CS junior and a passionate GNU/Linux user. I am trying to make websites th
 - 🌐 trying my hand at webdev and developing small projects with Gatsby
 - 📖 reading The Linux Bible, Modern Web Development on JAMstack
 - 🔗 working on [EinLink](https://github.com/linuxdotexe/einlink)
-- ❄ working on [nordic-wallpapers-website](https://github.com/linuxdotexe/nordic-wallpapers-website)
 - 🚀 learning DSA
 - 💡 trying to contribute to open-source projects
 - 🌹 trying stop making self depricating jokes on my resume
